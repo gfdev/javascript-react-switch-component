@@ -1,0 +1,43 @@
+{
+  "name": "react-switch-component",
+  "version": "0.0.1",
+  "description": "React component for",
+  "main": "index.js",
+  "keywords": [
+    "React",
+    "conditional",
+    "component",
+    "if",
+    "else",
+    "then"
+  ],
+  "homepage": "https://github.com/gfdev/javascript-react-switch-component",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gfdev/javascript-react-switch-component.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gfdev/javascript-react-switch-component/issues"
+  },
+  "scripts": {
+    "test": "mocha --harmony --require babel-core/register"
+  },
+  "author": {
+    "name": "Gordon Freeman",
+    "email": "eax@gmx.us",
+    "url": "https://github.com/gfdev"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.3.26",
+    "babel-plugin-transform-strict-mode": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babel-preset-stage-0": "^6.3.13",
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4",
+    "react-dom": "^0.14.0"
+  },
+  "dependencies": {
+    "react": ">=0.12.0"
+  }
+}
