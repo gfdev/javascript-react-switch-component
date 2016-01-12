@@ -3,7 +3,7 @@
 var expect = require('chai').expect
     , React = require('react')
     , version = +React.version.substring(0, React.version.lastIndexOf('.'))
-    , Node = require('../src/switch.jsx')
+    , Node = require('..')
 ;
 
 describe('React Switch component testing:', function() {

@@ -1,1 +1,1 @@
-module.exports = require('./src/switch');
+module.exports = require('./src/module');
